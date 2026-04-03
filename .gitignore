@@ -1,0 +1,18 @@
+# Environment and IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor directories
+.vscode/
+.idea/
+*.iml
+
+# Generated files
+docs/code-review/*.md
+*.log
+
+# OS files
+.DS_Store
